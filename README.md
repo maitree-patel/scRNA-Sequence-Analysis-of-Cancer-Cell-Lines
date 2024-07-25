@@ -15,8 +15,12 @@ scRNA-Seq is used to study the transcriptomes of individual cells in tissues, i.
 **How does scRNA-Seq useful is studying cancer cell lines (what does it reveal)?**   
 The heterogeinity of cancer cell lines are captured by scRNA-Seq allowing us to study response to drug therapies.
 
+**What is HER2 and how is it targetted by Trastuzumab?**   
+Human epidermal growth factor 2 (HER2) are proteins that makes cells grow. Breast cancer cells are known to have HER2 as surface proteins. Trastuzumab binds to these proteins on cell surface to 
+
+
 ## References
 1. Mirabelli, P., Coppola, L. and Salvatore, M. (2019) ‘Cancer cell lines are useful model systems for Medical Research’, Cancers, 11(8), p. 1098. doi:10.3390/cancers11081098.
-
+2. Gambardella, G. et al. (2022) ‘A single-cell analysis of breast cancer cell lines to study tumour heterogeneity and Drug Response’, Nature Communications, 13(1). doi:10.1038/s41467-022-29358-6. 
 
 
