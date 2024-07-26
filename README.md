@@ -18,6 +18,21 @@ The heterogeinity of cancer cell lines are captured by scRNA-Seq allowing us to 
 **What is HER2 and how is it targetted by Trastuzumab?**   
 Human epidermal growth factor 2 (HER2) are proteins that makes cells grow. Breast cancer cells are known to have HER2 as surface proteins. Trastuzumab binds to these proteins on cell surface to 
 
+## Kinker et al., 2019
+**What were the main objectives of the paper?**
+
+**Why?**
+
+**How did the authors handle the potential caveat of co-culturing cell lines before profiling by scRNA-seq? Why do you think that caveat was or was not adequately addressed?**
+
+**The authors identified discrete subpopulations of cells within a subset of individual cell lines (Fig. 2A-B). What might be the reason why some cell lines have these discrete subpopulations while others do not?**
+
+**What are Recurrent Heterogeneous Programs (RHPs) and how were they defined?**
+
+**How do the identified RHPs relate to in vivo programs of heterogeneity in tumors, and what evidence supports this relationship?**
+
+**Where can you download the scRNA-seq data as shown in Figure 1B?**
+
 
 ## References
 1. Mirabelli, P., Coppola, L. and Salvatore, M. (2019) ‘Cancer cell lines are useful model systems for Medical Research’, Cancers, 11(8), p. 1098. doi:10.3390/cancers11081098.
