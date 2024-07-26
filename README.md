@@ -1,4 +1,5 @@
 # scRNA-Sequence-Analysis-of-Cancer-Cell-Lines
+*Note: project in progress*
 ## Main Objective
 Exploring scRNA-Seq data to analyze the use of existing FDA-approved antibody therapies on other cancers.
 
@@ -19,6 +20,17 @@ The heterogeinity of cancer cell lines are captured by scRNA-Seq allowing us to 
 Human epidermal growth factor 2 (HER2) are proteins that makes cells grow. Breast cancer cells are known to have HER2 as surface proteins. Trastuzumab binds to these proteins on cell surface to 
 
 ## Kinker et al., 2019
+
+### Important Terminology
+**Gene Expression Programs (GEP)**
+
+**t-SNE**
+
+**DBSCAN**
+
+**NMF**
+
+### Questions
 **What were the main objectives of the paper?**
 
 **Why?**
