@@ -23,8 +23,10 @@ Human epidermal growth factor 2 (HER2) are proteins that makes cells grow. Breas
 
 ### Important Terminology
 **Gene Expression Programs (GEP)**
+A set of genes that work together in response to external cues to perform certain functions. This is achieved through transcriptional co-regulation.
 
-**t-SNE**
+**t-distributed Stochastic Neighbor Embedding (t-SNE)**
+A non-linear dimensionality reduction method used for linearly non-separable data (that PCA cannot separate out). It is mainly used to understand highly dimensional data by projecting it onto 2-D or 3-D space.
 
 **DBSCAN**
 
